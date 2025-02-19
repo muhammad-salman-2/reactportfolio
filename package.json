@@ -1,6 +1,6 @@
 {
-  "name": "portfolio",
-  "homepage": "https://github.com/muhammad-salman-2/react-portfolio.git",
+  "name": "reactportfolio",
+  "homepage": "https://github.com/muhammad-salman-2/reactportfolio.git",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,9 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "predeploy": "npm run dev",
-    "deploy": "gh-pages -d dist"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@remixicon/react": "^4.6.0",

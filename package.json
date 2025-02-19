@@ -9,8 +9,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run dev",
-    "deploy": "gh-pages -d dist"
+    
   },
   "dependencies": {
     "@remixicon/react": "^4.6.0",
